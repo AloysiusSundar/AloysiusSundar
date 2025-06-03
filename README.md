@@ -3,7 +3,9 @@
 </p>
 
 
-<h1 align="left">hello there👋, i'm Aloysius</h1>
+<h1 align="left">hello there👋, i'm Aloysius
+  <img src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif" width="40" height="40" style="vertical-align: middle;" />
+</h1>
 
 
 - 🔭 i’m currently working on [TripIt](https://github.com/AloysiusSundar/RouteOptimization)
