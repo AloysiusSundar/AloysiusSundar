@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=90&section=header&text=hello%20there!&fontSize=40&fontColor=ffffff&textAlignY=bottom&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aloysius</h1>
+<h1 align="left">Hi 👋, I'm Aloysius</h1>
 
 
 - 🔭 I’m currently working on [TripIt](https://github.com/AloysiusSundar/RouteOptimization)
