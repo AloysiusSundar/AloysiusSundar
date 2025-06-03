@@ -3,14 +3,14 @@
 </p>
 
 
-<h1 align="left">hello there👋, I'm Aloysius</h1>
+<h1 align="left">hello there👋, i'm Aloysius</h1>
 
 
-- 🔭 I’m currently working on [TripIt](https://github.com/AloysiusSundar/RouteOptimization)
+- 🔭 i’m currently working on [TripIt](https://github.com/AloysiusSundar/RouteOptimization)
 
-- 📝 I regularly write articles on [https://aloysiussundar.github.io/gitforked/](https://aloysiussundar.github.io/gitforked/)
+- 📝 i regularly write articles on [https://aloysiussundar.github.io/gitforked/](https://aloysiussundar.github.io/gitforked/)
 
-- 📫 How to reach me **aloysiusdhindukalan@gmail.com**
+- 📫 how to reach me **aloysiusdhindukalan@gmail.com**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
