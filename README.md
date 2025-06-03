@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **aloysiusdhindukalan@gmail.com**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
