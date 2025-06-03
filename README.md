@@ -6,15 +6,9 @@
 
 - 🔭 I’m currently working on [TripIt](https://github.com/AloysiusSundar/RouteOptimization)
 
-- 🌱 I’m currently learning **PyTorch**
-
 - 📝 Check out my portfolio, where I also regularly write articles; [https://aloysiussundar.github.io/gitforked/](https://aloysiussundar.github.io/gitforked/)
 
 - 📫 How to reach me **aloysiusdhindukalan@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
