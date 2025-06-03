@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:61dafb,100:21a1f1&height=40&section=footer&text=React&fontSize=18&fontColor=000000" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f0db4f,100:e5c10a&height=40&section=footer&text=JavaScript&fontSize=18&fontColor=000000" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:3178c6,100:235ea8&height=40&section=footer&text=TypeScript&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=header&text=Aloysius%20Sundar&fontSize=50&fontColor=ffffff&animation=wave" />
 </p>
+
 
 <h1 align="left">Hi 👋, I'm Aloysius</h1>
 
