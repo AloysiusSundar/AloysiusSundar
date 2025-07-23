@@ -12,7 +12,7 @@
 
 - 📝 i regularly write on [GitForked](https://aloysiussundar.github.io/gitforked/)
 
-- 📫 how to reach me **aloysiusdhindukalan@gmail.com**
+- 📫 reach me through **aloysiusdhindukalan@gmail.com**
 
 <h2>📝 recent stuff i wrote</h2>
 <blockquote>
