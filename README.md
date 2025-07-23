@@ -19,12 +19,12 @@
   <p><em>Auto-fetched from <a href="https://aloysiussundar.github.io/gitforked">GitForked</a> via RSS.</em></p>
 
   <!-- BLOG-POST-LIST:START -->
-  - [The Philosophy Of Being Good.](/gitforked/reflection/2025/04/20/the-philosophy-of-being-good.html)
-  - [A Thousand Second Chances.](/gitforked/reflection/2024/10/24/thousand-second-chances.html)
-  - [Better Call Saul: Wolves, Sheep and a Chimp with a Machine Gun.](/gitforked/opinion/2024/07/27/better-call-saul.html)
-  - [The Leagcy of Toriyama.](/gitforked/opinion/2024/04/01/akira-toriyama.html)
-  - [What defines a Spider-Man?](/gitforked/opinion/2023/07/23/what-makes-a-spidey.html)
-  <!-- BLOG-POST-LIST:END -->
+- [The Philosophy Of Being Good.](/gitforked/reflection/2025/04/20/the-philosophy-of-being-good.html)
+- [A Thousand Second Chances.](/gitforked/reflection/2024/10/24/thousand-second-chances.html)
+- [Better Call Saul: Wolves, Sheep and a Chimp with a Machine Gun.](/gitforked/opinion/2024/07/27/better-call-saul.html)
+- [The Leagcy of Toriyama.](/gitforked/opinion/2024/04/01/akira-toriyama.html)
+- [What defines a Spider-Man?](/gitforked/opinion/2023/07/23/what-makes-a-spidey.html)
+<!-- BLOG-POST-LIST:END -->
 </blockquote>
 
 <h3 align="left">Connect with me:</h3>
