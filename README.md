@@ -10,11 +10,11 @@
 
 - 🔭 i’m currently working on [TripIt](https://github.com/AloysiusSundar/RouteOptimization)
 
-- 📝 i regularly write articles on [https://aloysiussundar.github.io/gitforked/](https://aloysiussundar.github.io/gitforked/)
+- 📝 i regularly write on [GitForked](https://aloysiussundar.github.io/gitforked/)
 
 - 📫 how to reach me **aloysiusdhindukalan@gmail.com**
 
-<h2>📝 Recent Writings</h2>
+<h2>📝 recent stuff i wrote</h2>
 <blockquote>
   <p><em>Auto-fetched from <a href="https://aloysiussundar.github.io/gitforked">GitForked</a> via RSS.</em></p>
 
