@@ -1,15 +1,18 @@
-name: Latest blog post workflow
+name: Latest Blog Posts
 on:
   schedule:
-    - cron: '0 * * * *' # runs every hour
+    - cron: '0 0 * * *' # Runs daily (or set to '0 * * * *' for hourly)
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-readme-with-blog:
+    name: Update README with latest posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Update README with latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull RSS Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://aloysiussundar.github.io/gitforked/feed.xml"
+          feed_list: "https://aloysiussundar.github.io/gitforked/rss.xml"
+          max_post_count: 5
