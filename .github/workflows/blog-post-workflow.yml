@@ -1,8 +1,11 @@
 name: Latest Blog Posts
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily (or set to '0 * * * *' for hourly)
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
