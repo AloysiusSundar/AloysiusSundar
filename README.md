@@ -26,6 +26,11 @@ $ current-status
 
 ### `> git log --oneline -n 5 blog/`
 <!-- BLOG-POST-LIST:START -->
+- [[Review] Fantastic Four: Shaky Steps &lpar;3/5&rpar;](https://aloysiussundar.github.io/gitforked/reviews/fantastic-four-shaky-steps/)
+- [The Philosophy Of Being Good](https://aloysiussundar.github.io/gitforked/posts/philosophy-of-being-good/)
+- [[Review] Wolves, Sheep and a Chimp with a Machine Gun &lpar;5/5&rpar;](https://aloysiussundar.github.io/gitforked/reviews/better-call-saul/)
+- [[Review] Across The Spider-Verse: What defines a Spider-Man.   &lpar;5/5&rpar;](https://aloysiussundar.github.io/gitforked/reviews/what-makes-a-spidey/)
+- [[Review] The Indomitable Human Spirit, The Indifferent Cruelty of The Universe and Berserk &lpar;5/5&rpar;](https://aloysiussundar.github.io/gitforked/reviews/berserk-universe/)
 <!-- BLOG-POST-LIST:END -->
 
 ### `> neofetch --skills`
